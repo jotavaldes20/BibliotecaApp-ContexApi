@@ -22,7 +22,7 @@ Dependecias react
     "react-scripts"     version: "4.0.3"
 ### `Patron de arquitectura de contexto`
 
-    Se utilizo el patron de arquitectura de contextos, en la cual se aplico un patron de diseño Provider donde se hace uso de los conceptos  Hight Order Component y del Context API de React.
+Se utilizo el patron de arquitectura de contextos, en la cual se aplico un patron de diseño Provider donde se hace uso de los conceptos  Hight Order Component y del Context API de React.
     
 ## Patros de diseño
 Se utilizo patron de diseño provider, para disponibliza los contextos de Libros y Contenido.
