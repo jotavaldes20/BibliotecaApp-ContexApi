@@ -35,4 +35,6 @@ En estos contextos se disponibiliza las funcionalidades necesarios para que los 
 
 En la mayoria de los compoenentes se pasa la data proveniente de las llamada de la Api para luego estas ser destructuradas para su manejo y hacer posible la visualizacion de los dato
 
+### `Api Utilizada`
+Css Gradientes [https://webgradients.com/](https://webgradients.com/) 
 
